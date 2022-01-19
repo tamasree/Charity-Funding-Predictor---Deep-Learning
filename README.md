@@ -1,4 +1,4 @@
-# Deep Learning Homework: Charity Funding Predictor
+# Deep Learning : Charity Funding Predictor
 
 ## Background
 
@@ -65,7 +65,6 @@ Optimize your model in order to achieve a target predictive accuracy higher than
 * Using different activation functions for the hidden layers.
 * Adding or reducing the number of epochs to the training regimen.
 
-**NOTE**: You will not lose points if your model does not achieve target performance, as long as you make three attempts at optimizing the model in your jupyter notebook.
 
 1. Create a new Jupyter Notebook file and name it `AlphabetSoupCharity_Optimzation.ipynb`.
 2. Import your dependencies, and read in the `charity_data.csv` to a Pandas DataFrame.
@@ -74,8 +73,6 @@ Optimize your model in order to achieve a target predictive accuracy higher than
 5. Save and export your results to an HDF5 file, and name it `AlphabetSoupCharity_Optimization.h5`.
 
 ### Step 4: Write a Report on the Neural Network Model
-
-For this part of the Challenge, you’ll write a report on the performance of the deep learning model you created for AlphabetSoup.
 
 The report should contain the following:
 
@@ -94,11 +91,3 @@ The report should contain the following:
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
-- - -
-
-## Rubric
-
-[Unit 21 - Deep Learning Homework Rubric - Charity Funding Predictor](https://docs.google.com/document/d/1SLOROX0lqZwa1ms-iRbHMQr1QSsMT2k0boO9YpFBnHA/edit?usp=sharing)
-
-___
-© 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
